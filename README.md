@@ -1,2 +1,2 @@
 # LoanApprovalClassification
-here we will classify the loan approval status using some customer information
+here we will classify the loan approval status using some customer information .
